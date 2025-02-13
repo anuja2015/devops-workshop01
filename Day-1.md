@@ -1,7 +1,8 @@
 # Training Plan 🚀
-📅 Training Schedule
 
-## Day-1
+## 📅 Training Schedule
+
+### Day-1
 
 | Time | Topic | Hands-On Activities |
 |------|-------|---------------------|
