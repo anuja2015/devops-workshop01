@@ -26,4 +26,4 @@
 | 12:30 - 1:30 PM | Lunch Break 🍽️ |  |
 | 1:30 - 3:00 PM | Monitoring Using Prometheus and Grafana | Set up monitoring for web-app |
 | 3:00 - 3:30 PM | Break ☕ | |
-| 3:30 - 5:00 PM | Final Capstone Project: Full CI/CD Pipeline | Multi-container deployment |
+| 3:30 - 5:00 PM | Final Capstone Project: Full CI/CD Pipeline | Complete Build and Deploy pipeline |
