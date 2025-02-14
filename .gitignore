@@ -1,8 +1,8 @@
 .connection.env
-terraform/.terraform/
-terraform/.terraform.lock.hcl
-terraform/.terraform.tfstate.lock.info
-terraform/.terraform.tfstate
-terraform/terraform.tfstate.backup
-terraform/tfplan
-terraform/terraform.tfstate
+terraform/VM/.terraform/
+terraform/VM/.terraform.lock.hcl
+terraform/VM/.terraform.tfstate.lock.info
+terraform/VM/.terraform.tfstate
+terraform/VM/terraform.tfstate.backup
+terraform/VM/tfplan
+terraform/VM/terraform.tfstate
