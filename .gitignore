@@ -2,7 +2,7 @@
 terraform/VM/.terraform/
 terraform/VM/.terraform.lock.hcl
 terraform/VM/.terraform.tfstate.lock.info
-terraform/VM/.terraform.tfstate
 terraform/VM/terraform.tfstate.backup
 terraform/VM/tfplan
 terraform/VM/terraform.tfstate
+terraform/VM/azureuser_id_rsa
