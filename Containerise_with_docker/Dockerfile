@@ -11,5 +11,4 @@ COPY target/*.jar app01.jar
 EXPOSE 8081
 
 # Run the application
-CMD ["java", "-jar", "app01.jar"]
-
+ENTRYPOINT ["java", "-jar", "app01.jar"]
