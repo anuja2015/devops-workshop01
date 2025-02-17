@@ -1,5 +1,6 @@
 # 1. Prerequisites
       JDK
+      Git
 
 ## Installation steps
 
